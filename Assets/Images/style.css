@@ -3,11 +3,22 @@ h1 {
     font-weight: 700;
 }
 
+main {
+    background-color: mediumaquamarine;
+    padding: 20px;
+}
+
+.box {
+    margin: 10px;
+}
+
 #dogimage {
     margin: 10px;
 }
 
 footer {
     background-color: gray;
-    border-top: teal solid 3px;
+    border-top: teal solid 9px;
+    padding: 15px;
+    text-align: center;
 }
