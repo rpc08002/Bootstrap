@@ -2,3 +2,12 @@ h1 {
     color: teal;
     font-weight: 700;
 }
+
+#dogimage {
+    margin: 10px;
+}
+
+footer {
+    background-color: gray;
+    border-top: teal solid 3px;
+}
