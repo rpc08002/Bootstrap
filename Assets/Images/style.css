@@ -11,7 +11,7 @@ main {
     margin: 10px;
 }
 
-#dogimage {
+.dogimage {
     margin: inherit;
 }
 
