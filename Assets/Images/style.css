@@ -3,6 +3,14 @@ h1 {
     font-weight: 700;
 }
 
+.hero {
+    height:800px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(just-waves.jpeg);
+}
+
 main {
     padding: 20px;
 }
