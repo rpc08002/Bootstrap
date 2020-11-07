@@ -19,14 +19,6 @@ article {
     background-color: white;
 }
 
-.box {
-    margin: 10px;
-}
-
-.dogimage {
-    margin: inherit;
-}
-
 footer {
     background-color: gray;
     border-top: teal solid 9px;
