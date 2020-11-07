@@ -19,6 +19,10 @@ article {
     background-color: white;
 }
 
+section {
+        background-color: white;
+    }
+
 footer {
     background-color: gray;
     border-top: teal solid 9px;
