@@ -8,6 +8,7 @@ Bootstrap's grid system was applied on all three html files in order to create a
 ## Mock Up
 The following images show the web application's appearance:
 
-![Bootstrap Response Layou]()
+![Bootstrap](Example1.png) ![Bootstrap](Example2.png) 
+![Bootstrap](Example3.png)
 
 [demo]: 
