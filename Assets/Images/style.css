@@ -1,8 +1,10 @@
+/* Header Section */
 h1 {
     color: teal;
     font-weight: 700;
 }
 
+/* Background Image */
 .hero {
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -11,18 +13,22 @@ h1 {
     background-image: url(just-waves.jpeg);
 }
 
+/* Main Section Padding */
 main {
     padding: 20px;
 }
 
+/* Article Background */
 article {
     background-color: white;
 }
 
+/* Section Background */
 section {
         background-color: white;
     }
 
+/* Footer Section */
 footer {
     background-color: gray;
     border-top: teal solid 9px;
