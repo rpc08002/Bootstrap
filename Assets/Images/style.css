@@ -21,8 +21,9 @@ main {
 /* Article Background */
 article {
     background-color: white;
-    width: 80%;
-    margin: 5rem auto 5rem auto;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 20px;
 }
 
 /* Section Background */
@@ -48,5 +49,12 @@ footer {
 
 .portfolio {
     width: 80%;
-    margin: 5rem auto 5rem auto;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.contact {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 20px;
 }
