@@ -44,7 +44,6 @@ footer {
 
 .profile {
     border-radius: 50px;
-    height: 250px;
 }
 
 .portfolio {
@@ -56,5 +55,9 @@ footer {
 .contact {
     width: 80%;
     margin: 0 auto;
+    border-radius: 20px;
+}
+
+.photo {
     border-radius: 20px;
 }
