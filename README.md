@@ -8,6 +8,6 @@ Bootstrap's grid system was applied on all three html files in order to create a
 ## Mock Up
 The following images show the web application's appearance:
 
-![Bootstrap](Assets/Images/example1.png)
+![Bootstrap](Assets/example1.png)
 
 [demo]: https://rpc08002.github.io/Bootstrap/.
